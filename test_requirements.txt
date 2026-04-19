@@ -1,0 +1,56 @@
+# ⚠ 의도적으로 오래된 버전 명시 — Trivy SCA CVE 탐지 검증용
+# 배포 환경에서는 절대 사용하지 마세요.
+
+# CVE-2023-43804, CVE-2023-45803 (urllib3)
+urllib3==1.26.5
+
+# CVE-2023-36053, CVE-2023-41164, CVE-2023-43665 등 다수 (Django 구버전)
+django==2.2.10
+
+# CVE-2022-29361, CVE-2023-25577, CVE-2023-30861 (werkzeug)
+werkzeug==2.0.3
+
+# CVE-2023-23969, CVE-2024-24762 (flask)
+flask==1.1.2
+
+# CVE-2023-32681 (requests)
+requests==2.20.0
+
+# CVE-2020-25659 (cryptography)
+cryptography==2.9.2
+
+# CVE-2020-14343, CVE-2017-18342 (pyyaml)
+pyyaml==5.3
+
+# CVE-2021-33503 (jinja2)
+jinja2==2.11.2
+
+# CVE-2022-23491 (certifi)
+certifi==2020.12.5
+
+# CVE-2023-50782 (cryptography fallback)
+paramiko==2.7.2
+
+# CVE-2021-33503 and others (pillow)
+pillow==8.1.0
+
+# CVE-2022-40897 (setuptools)
+setuptools==59.0.0
+
+# CVE-2022-42969 (py)
+py==1.10.0
+
+# CVE-2018-18074 (requests-toolbelt 등)
+oauthlib==3.1.0
+
+# CVE-2021-43818, CVE-2023-32681 (lxml)
+lxml==4.6.2
+
+# numpy 구버전 (잠재 CVE)
+numpy==1.19.2
+
+# CVE-2023-28370 (gunicorn)
+gunicorn==20.0.4
+
+# CVE-2023-30608 (sqlparse)
+sqlparse==0.3.1
