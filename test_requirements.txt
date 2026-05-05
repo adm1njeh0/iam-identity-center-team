@@ -32,8 +32,8 @@ certifi==2020.12.5
 paramiko==2.7.2
 
 # CVE-2021-33503 and others (pillow)
-#pillow==8.1.0
-pillow==12.1.1
+pillow==8.1.0
+#pillow==12.1.1
 
 # CVE-2022-40897 (setuptools)
 setuptools==59.0.0
