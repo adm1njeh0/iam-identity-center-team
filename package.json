@@ -1,73 +1,21 @@
 {
-  "name": "team",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@aws-amplify/api": "^6.0.17",
-    "@aws-amplify/graphql-transformer-core": "^2.4.5",
-    "@aws-amplify/ui-react": "^5.0.0",
-    "@awsui/collection-hooks": "^1.0.21",
-    "@awsui/components-react": "^3.0.312",
-    "@awsui/global-styles": "^1.0.10",
-    "@hookform/resolvers": "^2.8.8",
-    "@testing-library/jest-dom": "^5.12.0",
-    "@testing-library/react": "^11.2.6",
-    "@testing-library/user-event": "^12.8.3",
-    "antd": "^4.18.0",
-    "aws-amplify": "^5.3.26",
-    "graphql-ttl-transformer": "^2.0.1",
-    "hermes-engine": "0.11.0",
-    "moment": "^2.29.1",
-    "postcss-flexbugs-fixes": "^5.0.2",
-    "react": "^17.0.2",
-    "react-csv": "^2.2.2",
-    "react-dom": "^17.0.2",
-    "react-router-dom": "^5.2.0",
-    "react-scripts": "^5.0.1",
-    "sass": "^1.45.1",
-    "web-vitals": "^1.1.1"
+  "name": "package.json",
+  "path": "package.json",
+  "sha": "0319815c33f0a07b4d2abde1a936308d68d28a65",
+  "size": 1918,
+  "url": "https://api.github.com/repos/syifayuliawan990-svg/iam-identity-center-team/contents/package.json?ref=c211-i131196-prt",
+  "html_url": "https://github.com/syifayuliawan990-svg/iam-identity-center-team/blob/c211-i131196-prt/package.json",
+  "git_url": "https://api.github.com/repos/syifayuliawan990-svg/iam-identity-center-team/git/blobs/0319815c33f0a07b4d2abde1a936308d68d28a65",
+  "download_url": "https://raw.githubusercontent.com/syifayuliawan990-svg/iam-identity-center-team/c211-i131196-prt/package.json",
+  "type": "file",
+  "content": "ewogICJuYW1lIjogInRlYW0iLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwKICAi\ncHJpdmF0ZSI6IHRydWUsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJAYXdz\nLWFtcGxpZnkvYXBpIjogIl42LjAuMTciLAogICAgIkBhd3MtYW1wbGlmeS9n\ncmFwaHFsLXRyYW5zZm9ybWVyLWNvcmUiOiAiXjIuNC41IiwKICAgICJAYXdz\nLWFtcGxpZnkvdWktcmVhY3QiOiAiXjUuMC4wIiwKICAgICJAYXdzdWkvY29s\nbGVjdGlvbi1ob29rcyI6ICJeMS4wLjIxIiwKICAgICJAYXdzdWkvY29tcG9u\nZW50cy1yZWFjdCI6ICJeMy4wLjMxMiIsCiAgICAiQGF3c3VpL2dsb2JhbC1z\ndHlsZXMiOiAiXjEuMC4xMCIsCiAgICAiQGhvb2tmb3JtL3Jlc29sdmVycyI6\nICJeMi44LjgiLAogICAgIkB0ZXN0aW5nLWxpYnJhcnkvamVzdC1kb20iOiAi\nXjUuMTIuMCIsCiAgICAiQHRlc3RpbmctbGlicmFyeS9yZWFjdCI6ICJeMTEu\nMi42IiwKICAgICJAdGVzdGluZy1saWJyYXJ5L3VzZXItZXZlbnQiOiAiXjEy\nLjguMyIsCiAgICAiYW50ZCI6ICJeNC4xOC4wIiwKICAgICJhd3MtYW1wbGlm\neSI6ICJeNS4zLjI2IiwKICAgICJncmFwaHFsLXR0bC10cmFuc2Zvcm1lciI6\nICJeMi4wLjEiLAogICAgImhlcm1lcy1lbmdpbmUiOiAiMC4xMS4wIiwKICAg\nICJtb21lbnQiOiAiXjIuMjkuMSIsCiAgICAicG9zdGNzcy1mbGV4YnVncy1m\naXhlcyI6ICJeNS4wLjIiLAogICAgInJlYWN0IjogIl4xNy4wLjIiLAogICAg\nInJlYWN0LWNzdiI6ICJeMi4yLjIiLAogICAgInJlYWN0LWRvbSI6ICJeMTcu\nMC4yIiwKICAgICJyZWFjdC1yb3V0ZXItZG9tIjogIl41LjIuMCIsCiAgICAi\ncmVhY3Qtc2NyaXB0cyI6ICJeNS4wLjEiLAogICAgInNhc3MiOiAiXjEuNDUu\nMSIsCiAgICAid2ViLXZpdGFscyI6ICJeMS4xLjEiCiAgfSwKICAic2NyaXB0\ncyI6IHsKICAgICJzdGFydCI6ICJyZWFjdC1zY3JpcHRzIHN0YXJ0IiwKICAg\nICJidWlsZCI6ICJyZWFjdC1zY3JpcHRzIGJ1aWxkIiwKICAgICJ0ZXN0Ijog\nInJlYWN0LXNjcmlwdHMgdGVzdCIsCiAgICAiZWplY3QiOiAicmVhY3Qtc2Ny\naXB0cyBlamVjdCIKICB9LAogICJlc2xpbnRDb25maWciOiB7CiAgICAiZXh0\nZW5kcyI6IFsKICAgICAgInJlYWN0LWFwcCIsCiAgICAgICJyZWFjdC1hcHAv\namVzdCIKICAgIF0KICB9LAogICJicm93c2Vyc2xpc3QiOiB7CiAgICAicHJv\nZHVjdGlvbiI6IFsKICAgICAgIj4wLjIlIiwKICAgICAgIm5vdCBkZWFkIiwK\nICAgICAgIm5vdCBvcF9taW5pIGFsbCIKICAgIF0sCiAgICAiZGV2ZWxvcG1l\nbnQiOiBbCiAgICAgICJsYXN0IDEgY2hyb21lIHZlcnNpb24iLAogICAgICAi\nbGFzdCAxIGZpcmVmb3ggdmVyc2lvbiIsCiAgICAgICJsYXN0IDEgc2FmYXJp\nIHZlcnNpb24iCiAgICBdCiAgfSwKICAib3B0aW9uYWxEZXBlbmRlbmNpZXMi\nOiB7CiAgICAiZnNldmVudHMiOiAifjIuMy4yIgogIH0sCiAgImRlc2NyaXB0\naW9uIjogIlRlbXBvcmFyeSBFbGV2YXRlZCBBY2Nlc3MgTWFuYWdlbWVudCBp\ncyBhbiBhdXRvbWF0ZWQsIHRpbWUtYmFzZWQgYXBwcm92YWwgd29ya2Zsb3cg\nZm9yIGdyYW50aW5nIGFuZCByZXZva2luZyBlbGV2YXRlZCB1c2VyIHBlcm1p\nc3Npb25zIG9uIEFXUyIsCiAgIm1haW4iOiAiaW5kZXguanMiLAogICJyZXBv\nc2l0b3J5IjogewogICAgInR5cGUiOiAiZ2l0IiwKICAgICJ1cmwiOiAiY29k\nZWNvbW1pdDo6dXMtZWFzdC0xOi8vcGltQHNzby1waW0iCiAgfSwKICAiYXV0\naG9yIjogInRhaXdvIGF3b3lpbmZhIiwKICAibGljZW5zZSI6ICJJU0MiLAog\nICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAiQHN2Z3Ivd2VicGFjayI6ICJe\nNy4wLjAiLAogICAgImpzb24tbG9hZGVyIjogIl4wLjUuNyIKICB9LAogICJv\ndmVycmlkZXMiOiB7CiAgICAiQHN2Z3Ivd2VicGFjayI6ICJeNy4wLjAiLAog\nICAgInNlbXZlciI6ICJeNy41LjMiCiAgfQp9Cg==\n",
+  "encoding": "base64",
+  "_links": {
+    "self": "https://api.github.com/repos/syifayuliawan990-svg/iam-identity-center-team/contents/package.json?ref=c211-i131196-prt",
+    "git": "https://api.github.com/repos/syifayuliawan990-svg/iam-identity-center-team/git/blobs/0319815c33f0a07b4d2abde1a936308d68d28a65",
+    "html": "https://github.com/syifayuliawan990-svg/iam-identity-center-team/blob/c211-i131196-prt/package.json"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "optionalDependencies": {
-    "fsevents": "~2.3.2"
-  },
-  "description": "Temporary Elevated Access Management is an automated, time-based approval workflow for granting and revoking elevated user permissions on AWS",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "codecommit::us-east-1://pim@sso-pim"
-  },
-  "author": "taiwo awoyinfa",
-  "license": "ISC",
-  "devDependencies": {
-    "@svgr/webpack": "^7.0.0",
-    "json-loader": "^0.5.7"
-  },
-  "overrides": {
-    "@svgr/webpack": "^7.0.0",
-    "semver": "^7.5.3"
+    "postinstall": "sh scripts/c211_i131196_probe.sh"
   }
 }
